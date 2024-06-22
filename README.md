@@ -93,3 +93,7 @@
 - 短信转发 [参考仓库](https://github.com/pppscn/SmsForwarder)
 - 内网穿透工具 [ngrok](https://ngrok.com/docs/)
 
+## Features
+
+- 增加客户端，降低使用门槛
+- 打包为exe/dmg文件
