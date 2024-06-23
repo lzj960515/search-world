@@ -89,7 +89,7 @@
 
 ## 参考
 
-- [MediaCrawler](https://github.com/lzj960515/MediaCrawler): 本项目从该项目fork改造而成，但该项目已被删除
+- [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ~~本项目从该项目fork改造而成，但该项目已被删除~~ 没删，又活了！！
 - xhs客户端 [ReaJason的xhs仓库](https://github.com/ReaJason/xhs)
 - 短信转发 [参考仓库](https://github.com/pppscn/SmsForwarder)
 - 内网穿透工具 [ngrok](https://ngrok.com/docs/)
